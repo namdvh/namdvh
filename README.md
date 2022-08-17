@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **namhoaidoan15@gmail.com**
 
-- 📄 Know about my experiences [I’m currently focusing on Backend Development and learning about .Net Core](I’m currently focusing on Backend Development and learning about .Net Core)
+- 📄 Know about my experiences I’m currently focusing on Backend Development and learning about .Net Core
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
