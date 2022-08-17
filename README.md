@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namdvh&label=Profile%20views&color=0e75b6&style=flat" alt="namdvh" /> </p>
 
-- 🔭 I’m currently study at [VN HCM FPT University](https://hcmuni.fpt.edu.vn/)
+- 🔭 I’m currently study at [VNU HCM FPT University](https://hcmuni.fpt.edu.vn/)
 
 - 🌱 I’m currently learning:  **Nodejs, C#, Java, React**
 
